@@ -3,7 +3,7 @@
 <resources>
   <string name="activity">Aktivlik</string>
   <plurals name="joinedNbTeams">
-    <item quantity="one">%s komandasına qatıldı</item>
-    <item quantity="other">%s komandasına qatıldı</item>
+    <item quantity="one">%s komandasına qoşuldu</item>
+    <item quantity="other">%s komandasına qoşuldu</item>
   </plurals>
 </resources>
